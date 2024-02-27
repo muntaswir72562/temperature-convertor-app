@@ -1,2 +1,2 @@
-![celsius](/image/celcius.png)
+![celsius](/image/celsius.png)
 ![fahrenheit](/image/fahrenheit.png)
